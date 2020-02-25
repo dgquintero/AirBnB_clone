@@ -1,7 +1,7 @@
 # AirBnB clone - The console
 
 AirBnB clone is a web application project that works very similar to AirBnB.com but does not have all the features.
-In this first phase, we will write a command interpreter to manage the AirBnB objects.
+In this first phase, we will write a command interpreter to manage the AirBnB objects. Also, we will test with some cases.
 
 ![AirBnB project's tree](https://raw.githubusercontent.com/dgquintero/dgquintero.github.io/master/images/Screen%20Shot%202020-02-19%20at%205.21.14%20PM.png)
 
