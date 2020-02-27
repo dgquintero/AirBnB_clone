@@ -6,7 +6,7 @@ header {background-color: white;
 .logoairbnb{
     width: 142px;
     height: 60px;
-    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png);
+    background-image: url(https://raw.githubusercontent.com/dgquintero/AirBnB_clone/master/web_static/images/logo.png);
     background-repeat: no-repeat;
     background-position-x: left;
     vertical-align:center
