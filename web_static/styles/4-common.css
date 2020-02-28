@@ -5,6 +5,23 @@ body{border:0; margin:0; color:#484848;
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
-    
-
+    margin: auto;
 }
+.container.filters{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid#DDDDDD;
+    border-radius: 4px;
+    }
+
+.filters.button{
+    font-size: 18px;
+    background-color: #FF5A5F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border:0;
+    border-radius: 4px;
+}
+
