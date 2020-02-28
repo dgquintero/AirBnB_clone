@@ -1,27 +1,16 @@
-body{border:0; margin:0; color:#484848;
+body{padding:0;
+    margin:0;
+    color:#484848;
     font-size: 14px;
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+p{
+    text-align: center;
+    line-height: 30px;
+}
 .container{
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin: auto;
+    margin: 30px auto 30px auto;
 }
-.container.filters{
-    background-color: white;
-    height: 70px;
-    width: 100%;
-    border: 1px solid#DDDDDD;
-    border-radius: 4px;
-    }
-
-.filters.button{
-    font-size: 18px;
-    background-color: #FF5A5F;
-    color: #FFFFFF;
-    height: 48px;
-    width: 20%;
-    border:0;
-    border-radius: 4px;
-}
-
