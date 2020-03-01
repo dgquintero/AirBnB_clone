@@ -26,10 +26,6 @@
         width: 25%;
         float: left;
     }
-    .popover{
-        background-color: #fafafa;
-        border: 1px solid#DDDDDD;
-    }
     .locations{
         border-right: 1px solid #DDDDDD;
     }
@@ -42,4 +38,26 @@
         font-weight: 400;
         font-size: 14px;
         margin: 3px 0 0 50px;
+    }
+    .popover{
+        background-color: #fafafa;
+        border: 1px solid#DDDDDD;
+        position: relative;
+        display: none;
+
+    }
+    .locations:hover .popover,
+    .amenities:hover .popover {
+      display: block;
+    }
+    li {
+        margin: 10px;
+        list-style: none;
+    }
+    .locations li{
+        margin: 5px -10px;
+        padding-bottom: 0;
+    }
+    .locations h2{
+        font-size: 16px;
     }
